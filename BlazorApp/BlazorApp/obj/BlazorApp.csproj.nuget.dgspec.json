@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\wamp64\\www\\asp-net\\MyApp\\MyApp.csproj": {}
+    "C:\\wamp64\\www\\asp-net\\BlazorApp\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "c:\\wamp64\\www\\asp-net\\MyApp\\MyApp.csproj": {
+    "C:\\wamp64\\www\\asp-net\\BlazorApp\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\wamp64\\www\\asp-net\\MyApp\\MyApp.csproj",
-        "projectName": "MyApp",
-        "projectPath": "c:\\wamp64\\www\\asp-net\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "C:\\wamp64\\www\\asp-net\\BlazorApp\\BlazorApp\\BlazorApp.csproj",
+        "projectName": "BlazorApp",
+        "projectPath": "C:\\wamp64\\www\\asp-net\\BlazorApp\\BlazorApp\\BlazorApp.csproj",
         "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-        "outputPath": "c:\\wamp64\\www\\asp-net\\MyApp\\obj\\",
+        "outputPath": "C:\\wamp64\\www\\asp-net\\BlazorApp\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,6 +51,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
